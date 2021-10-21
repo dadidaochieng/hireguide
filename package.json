@@ -1,0 +1,13 @@
+{
+  "name": "depthSum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "repository": "git@github.com:dadidaochieng/hireguide.git",
+  "author": "Odhiambo Ochieng <dadidaochieng@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "node src/test.js"
+  }
+}
